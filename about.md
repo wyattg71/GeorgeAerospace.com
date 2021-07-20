@@ -1,9 +1,5 @@
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# George Aerospace
+## Wyatt George
 
 1. Numbered
 2. List
