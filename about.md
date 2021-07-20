@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 Links to some of my work:
 
 1. [Repl.it](https://replit.com/@WyattGeorge)
