@@ -1,5 +1,5 @@
 ---
-title: About
+description: About Me
 ---
 
 Links to some of my work:
