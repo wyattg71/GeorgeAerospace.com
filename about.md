@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: ""
+description: " "
 ---
 
 Links to some of my work:
