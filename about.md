@@ -8,8 +8,6 @@ description: "Welcome to my custom portfolio website!"
 1. [Repl.it](https://replit.com/@WyattGeorge)
 2. [GitHub](https://github.com/wyattg71/)
 
-![Image](Resources/GIF3.gif)
-
 ## Resume
 
 <div style="margin:0 auto;text-align:center">
