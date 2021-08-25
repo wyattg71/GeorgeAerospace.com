@@ -11,7 +11,7 @@ description: "Welcome to my custom portfolio website!"
 ## Resume
 
 <div style="margin:0 auto;text-align:center">
-    <object style="margin-left:auto;margin-right:auto;text-align:center"  width="750" height="950" type="application/pdf" data="Resources/Resume_Wyatt_George.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <object style="margin-left:auto;margin-right:auto;text-align:center"  width="750" height="925" type="application/pdf" data="Resources/Resume_Wyatt_George.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
         <p>Error Displaying PDF</p>
     </object>
 </div>
