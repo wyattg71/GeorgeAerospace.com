@@ -3,7 +3,8 @@ title: "Welcome!"
 description: "Wyatt's Portfolio Website"
 ---
 
-![Image](Resources/GIF3.gif)
+![](Resources/GIF3.gif)
+*caption*
 
 
 [About Me](about)
