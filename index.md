@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-description: "Wyatt's Portfolio Website"
+description: "Wyatt's Portfolio Website (WIP!)"
 ---
 
 ![](Resources/GIF3.gif)
