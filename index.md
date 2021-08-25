@@ -1,6 +1,6 @@
 ---
-title: "Welcome!"
-description: "Welcome to my custom portfolio website!"
+page.title: "Welcome!"
+page.description: "Welcome to my custom portfolio website!"
 ---
 
 <html>
