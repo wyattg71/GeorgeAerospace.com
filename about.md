@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: " "
+description: "Welcome to my custom portfolio website!"
 ---
 
 ## Links to some of my work:
