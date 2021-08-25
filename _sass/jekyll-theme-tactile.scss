@@ -277,6 +277,11 @@ h6 {
   color: #303030;
 }
 
+img + em {
+	display: block;
+	text-align: center;
+	color: #cc0000;
+}
 p {
   margin-bottom: 20px;
   font-weight: 300;
